@@ -1,0 +1,161 @@
+@font-face {
+    font-family: "letrica";
+    font-weight: 500;
+    font-style: normal;
+    background-color: white;
+    src: url("https://use.typekit.net/kbs0omo.css");
+}
+
+body{
+
+    background-color: white;
+
+
+}
+.fondo{
+    background-color: rgb(255, 255, 255);
+    color: white;
+    position: relative;
+    
+    
+}
+.fondo2{
+    top: 200px;
+    position: relative;
+    left: -9px;
+    
+}
+.azul{
+    position: relative;
+    top: -1095px;
+    left: -10px;
+    width: 1929px;
+    height:140px;
+    background-color: #1e6ac2;
+    color: black;
+    padding-bottom: 70px;   
+    position: relative;
+    
+}
+.text{
+    position: relative;
+    top: 80px;
+    width: 200px;
+    left: 300px;
+    font-size: 50px;
+    color: white;
+    font-family: "letrica";
+}
+.text2{
+    position: relative;
+    top: 20px;
+    width: 200px;
+    left: 580px;
+    font-size: 50px;
+    color: white;
+    font-family: "letrica";
+}
+.imagen{
+    position: relative;
+    top: -60px;
+    left: 850px;
+    width: 200px;
+    height: 200px;
+}
+.text3{
+    position: relative;
+    top: -230px;
+    left: 1350px;
+    width: 200px;
+    font-size: 50px;
+    color: white;
+    font-family: "letrica";
+}
+.circulo{
+    position: relative;
+    top: -315px;
+    left: 1590px;
+    width: 329px;
+    height:30px;
+    background-color: #ffffff;
+    color: black;
+    padding-bottom: 70px;   
+    border-radius: 50px;
+
+}
+.text4{
+    position: relative;
+    top: 20px;
+    left: 60px;
+    width: 200px;
+    font-size: 50px;
+    color: black;
+    font-family: "letrica";
+}
+.text5{
+    position: relative;
+    top: 200px;
+    font-family: "letrica";
+    font-weight: 0;
+    font-size: 30px;
+    left: 760px;
+    padding: 5px;
+    color: rgba(61, 61, 61, 0.932);
+}
+.text6{
+    position: relative;
+    top: -150px;
+    font-family: "letrica";
+    font-weight: 100;
+    font-size: 60px;
+    left: 150px;
+}
+.cajitazul{
+    position: relative;
+    top: -315px;
+    left: 1190px;
+    width: 329px;
+    height:25px;
+    background-color: #1e6ac2;
+    border: 2px solid rgb(0, 0, 0);
+    color: black;
+    padding-bottom: 70px;   
+    border-radius: 30px;
+}
+.text7{
+    position: relative;
+    top: 20px;
+    left: 60px;
+    font-size: 40px;
+    color: white;
+    font-family: "letrica";
+}
+.cajitablanca{
+    position: relative;
+    top: -1115px;
+    left: 60px;
+    width: 679px;
+    height:805px;
+    background-color: #ffffff;
+    color: black;
+    padding-bottom: 70px;   
+    border-radius: 30px;
+}
+.text11{
+    position: relative;
+    top: -2020px;
+    left: -15px;
+    font-size: 50px;
+    color: black;
+    font-family: "letrica";
+    
+}
+.text12{
+    position: relative;
+    top: -2100px;
+    left: 75px;
+    font-size: 15px;
+    color: rgb(51, 50, 50);
+    font-family: "letrica";
+    
+}
